@@ -1,1 +1,2 @@
-# budget_tracker.github.io
+# Budget-Tracker-Offline
+Track budget expenses on or offline
